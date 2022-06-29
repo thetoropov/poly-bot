@@ -4,6 +4,7 @@
 * `/start` Get info about user
 * `/add <book_info>` Add book to database if you are manager
 * `/buy` Show books and buy it
+* `/info` Add address
 
 
 ## Get started
@@ -18,7 +19,7 @@
 
 ## User guide
 * Let's start with `/start` command.
-* Add info about you via `/info` command.
+* Add info(address) about you via `/info` command.
 * To start shopping write `/buy` and you can see a full list of books.
 * Click on any book to buy it
 * Enjoy our simple service :)
